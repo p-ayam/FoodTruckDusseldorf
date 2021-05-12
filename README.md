@@ -1,7 +1,8 @@
-# "Where Shall I Park My Food Truck in Düsseldorf, Germany?",
-**asked the client!**
-_____________
+# "Where Shall I Park My Food Truck in Düsseldorf, Germany?", **asked the client!**
+
 <img src="https://image-service.web.oebb.at/www.nightjet.com/.imaging/default/dam/nightjet/hero-header/header-overlay-1422x800/laender-und-staedte-1422x800/duesseldorf-hafen.jpg/jcr:content.jpg?t=1618495548479&scale=0.5" alt="alt text" width="900" height="whatever">
+
+Project source code can be viewed [here](https://nbviewer.jupyter.org/github/p-ayam/FoodTruckDusseldorf/blob/main/Food%20Truck%20in%20Dusseldorf.ipynb).
 
 ## 1. Introducing the Business Case
 
