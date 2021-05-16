@@ -97,6 +97,6 @@ The most attractive zip code area provides three attractive features simultaneou
 
 ##### 1. Strong purchasing power of the customers.
 
-##### 2. high likelihood of having a large population of active and loyal customers particularly for the lunch meals in the working days.
+##### 2. High likelihood of having a large population of active and loyal customers particularly for the lunch meals in the working days.
 
 ##### 3. Customers that are in the walking distance of the food truck.
